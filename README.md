@@ -1,5 +1,5 @@
 
-# Guia Definitivo de APIs para a Equipe da Inovare
+# Guia para a Equipe da Inovare
 
 ## Autor
 Arthur Massimetti Sartori
