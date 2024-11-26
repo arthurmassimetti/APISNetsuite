@@ -29,25 +29,19 @@ O repositório está organizado da seguinte forma:
 - **Docs/**: Documentação detalhada ou específica sobre o projeto.
 - **Exemplos/**: Exemplos práticos de uso das APIs e casos de teste.
 
-## Por que usar APIs?
 
-APIs são essenciais no desenvolvimento de software moderno porque:
-1. Permitem a integração entre sistemas.
-2. Facilitam o compartilhamento de funcionalidades e dados.
-3. Aceleram o desenvolvimento ao reutilizar componentes prontos.
-4. Tornam sistemas mais escaláveis e flexíveis.
+### Como navegar no repositório
 
-## Próximos Passos
+- **Estagiários e Juniores**: Comecem explorando as pastas de seus níveis para obter as bases e ferramentas iniciais. Aqui, vocês encontrarão exemplos simples, guias básicos e tutoriais passo a passo para entender o funcionamento de APIs.
 
-- Explore a pasta **Exemplos/** para ver como utilizar os endpoints da API.
-- Consulte a pasta **Docs/** para informações adicionais sobre autenticação e configuração.
-- Em caso de dúvidas, entre em contato com o responsável pelo projeto.
+- **Pleno e Sênior**: Avancem para as seções mais técnicas, focando em boas práticas, otimizações, e exemplos aplicados a cenários reais. Essas áreas contêm discussões sobre segurança, escalabilidade e design avançado de APIs.
 
-## Conclusão
-
-As APIs são ferramentas poderosas para conectar sistemas e criar soluções robustas. Este guia básico é um ponto de partida para que todos os integrantes da equipe possam se familiarizar com o tema e começar a utilizá-las no dia a dia.
+- **Especialistas**: Contribuam para o repositório com insights, melhorias e novos exemplos. A seção destinada a especialistas também aborda estratégias avançadas de design, padrões arquiteturais e integração com sistemas complexos.
 
 ---
+
+Essa estrutura facilita o acesso ao material adequado para cada nível de experiência, promovendo aprendizado progressivo e colaborativo.
+
 
 ## Estrutura do Repositório
 
@@ -71,6 +65,26 @@ inovare-api-guide/
     ├── diagrams/                  # Diagramas de fluxo de API
     └── images/                    # Imagens ilustrativas para README ou guias
 ```
+
+---
+
+## Por que usar APIs?
+
+APIs são essenciais no desenvolvimento de software moderno porque:
+1. Permitem a integração entre sistemas.
+2. Facilitam o compartilhamento de funcionalidades e dados.
+3. Aceleram o desenvolvimento ao reutilizar componentes prontos.
+4. Tornam sistemas mais escaláveis e flexíveis.
+
+## Próximos Passos
+
+- Explore a pasta **Exemplos/** para ver como utilizar os endpoints da API.
+- Consulte a pasta **Docs/** para informações adicionais sobre autenticação e configuração.
+- Em caso de dúvidas, entre em contato com o responsável pelo projeto.
+
+## Conclusão
+
+As APIs são ferramentas poderosas para conectar sistemas e criar soluções robustas. Este guia básico é um ponto de partida para que todos os integrantes da equipe possam se familiarizar com o tema e começar a utilizá-las no dia a dia.
 
 ---
 
