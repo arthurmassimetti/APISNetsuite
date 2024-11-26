@@ -47,23 +47,23 @@ Essa estrutura facilita o acesso ao material adequado para cada nível de experi
 
 ```
 inovare-api-guide/
-├── README.md                      # Visão geral do repositório e instruções iniciais
-├── docs/                          # Documentação detalhada
-│   ├── introducao.md              # Introdução sobre APIs
-│   ├── niveis/                    # Conteúdo organizado por níveis de experiência
-│   │   ├── estagiario.md          # Guia para estagiários
-│   │   ├── junior.md              # Guia para desenvolvedores juniores
-│   │   ├── pleno.md               # Guia para desenvolvedores plenos
-│   │   ├── senior.md              # Guia para desenvolvedores seniores
-│   │   ├── especialista.md        # Guia para especialistas
-│   └── recursos.md                # Links úteis e ferramentas para trabalhar com APIs
-├── exemplos/                      # Exemplos práticos de APIs
-│   ├── basico/                    # Exemplos básicos (GET, POST simples)
-│   ├── avancado/                  # Autenticação, tratamento de erros, etc.
-│   └── design/                    # Casos de design e otimização de APIs
-└── assets/                        # Recursos visuais
-    ├── diagrams/                  # Diagramas de fluxo de API
-    └── images/                    # Imagens ilustrativas para README ou guias
+├── README.md                      Visão geral do repositório e instruções iniciais
+├── docs/                          Documentação detalhada
+│   ├── introducao.md              Introdução sobre APIs
+│   ├── niveis/                    Conteúdo organizado por níveis de experiência
+│   │   ├── estagiario.md          Guia para estagiários
+│   │   ├── junior.md              Guia para desenvolvedores juniores
+│   │   ├── pleno.md               Guia para desenvolvedores plenos
+│   │   ├── senior.md              Guia para desenvolvedores seniores
+│   │   ├── especialista.md        Guia para especialistas
+│   └── recursos.md                Links úteis e ferramentas para trabalhar com APIs
+├── exemplos/                      Exemplos práticos de APIs
+│   ├── basico/                    Exemplos básicos (GET, POST simples)
+│   ├── avancado/                  Autenticação, tratamento de erros, etc.
+│   └── design/                    Casos de design e otimização de APIs
+└── assets/                        Recursos visuais
+    ├── diagrams/                  Diagramas de fluxo de API
+    └── images/                    Imagens ilustrativas para README ou guias
 ```
 
 ---
