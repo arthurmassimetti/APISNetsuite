@@ -1,42 +1,51 @@
 
 # Guia para a Equipe da Inovare
 
-## Autor
-Arthur Massimetti Sartori
+Este guia tem como objetivo introduzir conceitos básicos sobre APIs e auxiliar a equipe a entender e trabalhar com elas de forma eficiente.
 
-## Empresa
-Inovare
+## O que é uma API?
 
-## Introdução
-As APIs (Application Programming Interfaces) são ferramentas essenciais no desenvolvimento de software moderno. 
-Este guia tem como objetivo fornecer um roteiro abrangente para os membros da equipe da Inovare, adaptado aos diferentes níveis de experiência, 
-para aprender e utilizar APIs de forma eficaz em seus fluxos de trabalho.
+API (Application Programming Interface) é um conjunto de definições e protocolos que permite que diferentes sistemas se comuniquem entre si. APIs são amplamente utilizadas para integrar sistemas, compartilhar dados e oferecer funcionalidades específicas de forma padronizada.
 
----
+### Exemplos de uso de APIs:
+- Um aplicativo que utiliza um serviço de mapa (Google Maps API) para mostrar a localização.
+- Uma loja online que utiliza uma API de pagamento (PayPal API) para processar transações.
+- Um sistema interno que consome APIs de um ERP para obter informações sobre estoque ou vendas.
 
-## Níveis
+## Como funcionam as APIs REST?
 
-### Estagiário
-Uma introdução aos conceitos básicos de APIs, com foco em prática com exemplos simples e no entendimento do que são APIs.
+As APIs REST (Representational State Transfer) são baseadas em recursos e utilizam métodos HTTP para interagir com eles. Aqui estão os métodos mais comuns:
 
-### Júnior
-Ampliação do conhecimento para incluir princípios de APIs RESTful, uso de ferramentas como Postman e integração básica de APIs.
+- **GET**: Recupera informações de um recurso.
+- **POST**: Cria um novo recurso.
+- **PUT**: Atualiza um recurso existente.
+- **DELETE**: Remove um recurso.
 
-### Pleno
-Conceitos avançados como autenticação, tratamento de erros e leitura de documentações para criar e consumir APIs de forma eficiente.
+## Estrutura do Projeto
 
-### Sênior
-Imersão no design e na manutenção de APIs escaláveis, implementação de medidas avançadas de segurança e otimização de desempenho.
+O repositório está organizado da seguinte forma:
 
-### Especialista
-Domínio da arquitetura de APIs, estratégias de integração em larga escala e liderança em projetos complexos de desenvolvimento de APIs.
+- **Assets/**: Arquivos estáticos ou recursos visuais.
+- **Docs/**: Documentação detalhada ou específica sobre o projeto.
+- **Exemplos/**: Exemplos práticos de uso das APIs e casos de teste.
 
----
+## Por que usar APIs?
+
+APIs são essenciais no desenvolvimento de software moderno porque:
+1. Permitem a integração entre sistemas.
+2. Facilitam o compartilhamento de funcionalidades e dados.
+3. Aceleram o desenvolvimento ao reutilizar componentes prontos.
+4. Tornam sistemas mais escaláveis e flexíveis.
+
+## Próximos Passos
+
+- Explore a pasta **Exemplos/** para ver como utilizar os endpoints da API.
+- Consulte a pasta **Docs/** para informações adicionais sobre autenticação e configuração.
+- Em caso de dúvidas, entre em contato com o responsável pelo projeto.
 
 ## Conclusão
-Este guia é um ponto de partida para o aprendizado e a prática de APIs dentro da Inovare. 
-Recomenda-se que cada colaborador utilize os recursos propostos e busque aplicar os conceitos em projetos reais. 
-Dúvidas e sugestões podem ser discutidas com os líderes técnicos da equipe.
+
+As APIs são ferramentas poderosas para conectar sistemas e criar soluções robustas. Este guia básico é um ponto de partida para que todos os integrantes da equipe possam se familiarizar com o tema e começar a utilizá-las no dia a dia.
 
 ---
 
